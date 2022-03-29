@@ -4,7 +4,7 @@ Til modelbaneoverkørsel bliver der sandsynligvis brugt servomotor ESU 51804 til
 Datablad kan ikke skaffes. Servomotor blev derfor målt for at skaffe data for strøm og data for styring med pulsbreddemodulation.
 ## Specifikationer
 ESU motor specifikationer er målt til.
-* Motorstrøm: 473mA. Dimensioner strømforsyning til maksimum 500mA.
+* Motorstrøm: 473mA. Dimensioner strømforsyning til minimum 500mA.
 * Styrestrøm: 0,68mA. Rundet op til 0,7mA.
 * Pulsbredde: 600 – 2300µsek.
 * Vinkeldrejning: 0 – 180°.
