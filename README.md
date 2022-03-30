@@ -1,5 +1,6 @@
 # ESU51804 måling
-Til modelbaneoverkørsel bliver der sandsynligvis brugt servomotor ESU 51804 til vejbomme. Der er behov for at skaffe servomotorens data, så strømforsyning og software kan blive tilpasset.
+Til modelbaneoverkørsel bliver der sandsynligvis brugt servomotor ESU 51804 til vejbomme. Denne servomotor har en ret jævn gang og får derfor bevægelse af vejbom til at se realistisk ud.
+Der er behov for at skaffe servomotorens data, så strømforsyning og software kan blive tilpasset.
 
 Datablad kan ikke skaffes. Servomotor blev derfor målt for at skaffe data for strøm og data for styring med pulsbreddemodulation.
 ## Specifikationer
