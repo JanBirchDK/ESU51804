@@ -1,13 +1,29 @@
-/* Sweep
- by BARRAGAN <http://barraganstudio.com>
- This example code is in the public domain.
-
- modified 8 Nov 2013
- by Scott Fitzgerald
- http://www.arduino.cc/en/Tutorial/Sweep
-
- Test of servomotor ESU51804
-*/
+/*
+ * Projekt: Måling på servomotor 51804
+ * Produkt: Overkørsel til modeljernbane
+ * Version: 1.0
+ * Type: Program
+ * Programmeret af: Jan Birch
+ * Opdateret: 30-03-2022
+ * GNU General Public License version 3
+ * This file is part of måling ESU51804.
+ * 
+ * Måling ESU51804 is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * Måling ESU51804 is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with måling ESU51804.  If not, see <https://www.gnu.org/licenses/>.
+ *  
+ * Noter: 
+ * Se målerapport for en detaljeret beskrivelse af programmet, formål og anvendelse.
+ */
 
 #include <Servo.h>
 
